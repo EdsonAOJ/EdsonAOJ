@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EdsonAOJ
 - 👀 I’m interested in Java Script
-- 🌱 I’m currently learning Node.js with TypeScript
+- 🌱 I’m currently learning React.js with TypeScript
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
