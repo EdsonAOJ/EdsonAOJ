@@ -1,7 +1,7 @@
 
  ### <div align="center">👋 Hello, I'm Edson JR!! 👨‍💻 </div>
 
- <div align="center">📚 I'm currently studying Next.js, React Native and Docker</div>
+ <div align="center">📚 I'm currently studying React.JS</div>
  
  ##
 
