@@ -43,4 +43,4 @@
 ##  
 
   
-  <img src= "https://activity-graph.herokuapp.com/graph?username=EdsonAOJ&custom_title=EdsonAOJ&theme=nord">
+  <img src= "https://activity-graph.herokuapp.com/graph?username=EdsonAOJ&custom_title=EdsonAOJ&theme=dracula">
